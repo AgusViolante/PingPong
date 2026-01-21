@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/PingPong/Content/Maps/Level1.umap",
+				"C:/Users/violanteagus/Desktop/Githubs/PingPong/Content/Blueprints/Ball/BP_Ball.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/PingPong/Content/Blueprints/Paddles/BP_Paddle.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/PingPong/Content/Blueprints/Score/BP_ScoreActor.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/PingPong/Content/Blueprints/Ball/BP_SpawnerBall.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/PingPong/Content/Widget/WB_Score.uasset",
 				"C:/Users/violanteagus/Desktop/Githubs/PingPong/PingPong/Content/Maps/Level1.umap",
 				"C:/Users/violanteagus/Desktop/Githubs/PingPong/PingPong/Content/Blueprints/Paddles/BP_Paddle.uasset",
 				"C:/Users/violanteagus/Desktop/Githubs/PingPong/PingPong/Content/GM/GM_Principal.uasset",
@@ -13,7 +20,6 @@
 				"C:/Users/violanteagus/Desktop/Githubs/PingPong/PingPong/Content/Blueprints/Ball/BP_Ball.uasset",
 				"C:/Users/violanteagus/Desktop/Githubs/PingPong/PingPong/Content/Materals/Bounce_Material.uasset",
 				"C:/Users/violanteagus/Desktop/Githubs/PingPong/PingPong/Content/Blueprints/Paddles/AI_BP.uasset",
-				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Users/violanteagus/Desktop/Githubs/PingPong/PingPong/Content/Widget/WB_Score.uasset"
 			]
 		}
